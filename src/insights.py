@@ -103,7 +103,7 @@ def filter_by_industry(jobs, industry):
     list
         List of jobs with provided industry
     """
-    return []
+    # return []
 
 
 # Requisito 4
